@@ -1,4 +1,4 @@
-# Random Image Feed
+# Random Image Generator
 
 ---
 
